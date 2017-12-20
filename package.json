@@ -20,5 +20,5 @@
     "hexo-server": "^0.2.0"
   }, 
 "scripts": {
-    "start": "node index.js"
+    "start": "hexo server"
   }}
